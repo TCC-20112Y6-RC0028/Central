@@ -1,0 +1,13 @@
+Como construir a map de forma automatizada?
+Primeiro prototipo criar map manual para capturar das informações
+ -Inkspace em svg
+ -Blender
+ -verificar alguma api em javascript (indoor.js, Geojson.js)
+ -a adotar a estrategia com json no app Library Map(Teste nao funcionou
+ -utilizar pyhton para criar map e realizar processamento sobre image(é possivel)	
+
+
+
+
+
+  
